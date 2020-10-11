@@ -2,7 +2,8 @@
 # -*- ENCODING: UTF-8 -*-
 apt install toilet
 apt install python
-pip3 install -r requirements.txt
+pip3 install  bs4
+pip3 install requests
 clear
 toilet -f pagga END.. --filter gay --filter border|lolcat
 setterm -foreground red
