@@ -2,6 +2,8 @@
 # -*- ENCODING: UTF-8 -*-
 apt install toilet
 apt install python
+apt install ruby
+gem install lolcat
 pip3 install  bs4
 pip3 install requests
 clear
