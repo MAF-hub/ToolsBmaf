@@ -3,6 +3,7 @@
 apt install toilet
 apt install python
 apt install ruby
+apt install vim
 gem install lolcat
 pip3 install  bs4
 pip3 install requests
@@ -17,3 +18,4 @@ echo ''
 echo 'Para iniciar el programa escriba python3 binning.py'
 echo ''
 setterm -foreground white
+rm -rf setup.sh
