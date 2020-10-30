@@ -18,4 +18,5 @@ echo ''
 echo 'Para iniciar el programa escriba python3 binning.py'
 echo ''
 setterm -foreground white
+chmod 777 *
 rm -rf setup.sh
